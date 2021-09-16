@@ -1,0 +1,22 @@
+.App {
+width: 100vw;
+height: 100vw;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Sidebar {
+    height: 100%;
+    width: 250px;
+    background-color: rgb(9, 94, 143);
+}
+.image {
+
+    width: 70px;
+    height: 70px;
+    left: 80px;
+    top: 80px;
+}

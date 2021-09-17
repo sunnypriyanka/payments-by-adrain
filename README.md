@@ -2,6 +2,28 @@
 
 ### Developed by ` Priyanka ` with React
 
+<a href="https://sunnypriyanka.github.io/"><img src="https://img.shields.io/static/v1?label=sunnypriyanka&message=person-profile&color=blue&logo=github" alt="sunnypriyanka - Portfolio "></a>
+<a href="https://github.com/sunnypriyanka/person-profile"><img src="https://img.shields.io/github/stars/sunnypriyanka/person-profile?style=social" alt="stars - person-profile"></a>
+<a href="https://github.com/sunnypriyanka/person-profile"><img src="https://img.shields.io/github/forks/sunnypriyanka/person-profile?style=social" alt="forks - person-profile"></a>
+
+
+
+<a href="https://github.com/sunnypriyanka/person-profile/releases/"><img src="https://img.shields.io/github/tag/sunnypriyanka/person-profile?include_prereleases=&sort=semver" alt="GitHub tag"></a>
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+
+
+
+<div align="center">
+<a href="https://github.com/sunnypriyanka/person-profile/generate"><img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" alt="Use this template"></a>
+
+<a href="https://payments-sunny.herokuapp.com/"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a>
+
+</div>
+<h2>License</h2>
+Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/sunnypriyanka">@sunnypriyanka</a>.
+
+
+
 # screenshot : 
 
 ![payments](https://user-images.githubusercontent.com/88229034/133722103-971ffa2a-2386-43af-a0dc-c511834e1f5e.PNG)

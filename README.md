@@ -2,7 +2,12 @@
 
 ### Developed by ` Priyanka ` with React
 
-<a href="https://sunnypriyanka.github.io/"><img src="https://img.shields.io/static/v1?label=sunnypriyanka&message=person-profile&color=blue&logo=github" alt="sunnypriyanka - Portfolio "></a>
+[![Website](https://img.shields.io/badge/Portfolio%20-https%3A%2F%2Fsunnypriyanka.github.io%2F-brightgreen)](https://sunnypriyanka.github.io/)
+
+<a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/badge/React-17-blue?logo=react&logoColor=white" alt="Made with React"></a>
+
+
+
 <a href="https://github.com/sunnypriyanka/person-profile"><img src="https://img.shields.io/github/stars/sunnypriyanka/person-profile?style=social" alt="stars - person-profile"></a>
 <a href="https://github.com/sunnypriyanka/person-profile"><img src="https://img.shields.io/github/forks/sunnypriyanka/person-profile?style=social" alt="forks - person-profile"></a>
 
@@ -15,8 +20,10 @@
 
 <div align="center">
 <a href="https://github.com/sunnypriyanka/person-profile/generate"><img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" alt="Use this template"></a>
+  
+<a href="https://payments-sunny.herokuapp.com/"><img src="https://img.shields.io/badge/heroku-live_site-2ea44f" alt="heroku - live site"></a>
 
-<a href="https://payments-sunny.herokuapp.com/"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a>
+
 
 </div>
 <h2>License</h2>

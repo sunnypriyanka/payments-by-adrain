@@ -1,3 +1,12 @@
+# Dashboard - payments by adrain
+
+### Developed by ` Priyanka ` with React
+
+# screenshot : 
+
+![payments](https://user-images.githubusercontent.com/88229034/133722103-971ffa2a-2386-43af-a0dc-c511834e1f5e.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
